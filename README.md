@@ -36,13 +36,7 @@
 
 <div>
 
-![0xHaris's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xHaris&theme=dracula&show_icons=true&hide_border=true)
-
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xHaris&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xharis&theme=dracula&langs_count=15)
-
-![0xHaris's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0xHaris&theme=rogue&hide_border=true)
 
 </div>
 
