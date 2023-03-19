@@ -12,11 +12,15 @@
 ![Flask](https://img.shields.io/badge/-Flask-bd93f9?style=flat&logo=flask)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-bd93f9?style=flat&logo=docker)&nbsp; <br>
 ![Node.js](https://img.shields.io/badge/-Node.js-bd93f9?style=flat&logo=node.js)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-bd93f9?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-bd93f9?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-bd93f9?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-bd93f9?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-bd93f9?style=flat&logo=vue.js)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-bd93f9?style=flat&logo=vue.js)&nbsp; <br>
+![Node.js](https://img.shields.io/badge/-Node.js-bd93f9?style=flat&logo=node.js)&nbsp;
+![Three.js](https://img.shields.io/badge/-Three.js-bd93f9?style=flat&logo=three.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Three.js-bd93f9?style=flat&logo=three.js)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-bd93f9?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-bd93f9?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-bd93f9?style=flat&logo=angular)&nbsp; <br>
 ![pandas](https://img.shields.io/badge/-pandas-bd93f9?style=flat&logo=pandas)&nbsp;
 ![numpy](https://img.shields.io/badge/-numpy-bd93f9?style=flat&logo=numpy)&nbsp;
@@ -36,7 +40,9 @@
 
 <div>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xHaris&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xHaris&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xharis&theme=dracula)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xharis&theme=dracula)
 
 </div>
 
