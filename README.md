@@ -1,6 +1,8 @@
 <h1 class="center"> Hey there! I'm Haris <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br>
 
+I am a software developer with experience in building applications in Python, JavaScript, and Rust.
+
 <h1>💡 Skills:</h1>
 
 ![Python](https://img.shields.io/badge/-Python-bd93f9?style=flat&logo=python)&nbsp;
@@ -38,16 +40,16 @@
 <div>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xHaris&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xharis&theme=dracula)<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xharis&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xACE3&theme=dracula)<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xACE3&theme=dracula)
 
 </div>
 
 <h1> 📫 Reach me: </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:0xbitshot@gmail.com)](mailto:0xbitshot@gmail.com)
-[![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=Follow&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3D0xHaris)](https://twitter.com/intent/user?screen_name=0xHaris)
-[![Github Badge](https://img.shields.io/github/followers/0xharis?label=Follow&style=flat-square&logo=github)](https://github.com/0xHaris)
+[![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=Follow&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3D0xACE3)](https://twitter.com/intent/user?screen_name=0xACE3)
+[![Github Badge](https://img.shields.io/github/followers/0xACE3?label=Follow&style=flat-square&logo=github)](https://github.com/0xHaris)
 [![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EdgeShoTx77)
 [![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/469899690805166090)
 [![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/5M2gPmu2AC)
