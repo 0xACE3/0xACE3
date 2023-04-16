@@ -52,7 +52,6 @@ I am a Full Stack developer with experience building applications in Python, Jav
 [![Github Badge](https://img.shields.io/github/followers/0xACE3?label=Follow&style=flat-square&logo=github)](https://github.com/0xHaris)
 [![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EdgeShoTx77)
 [![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/469899690805166090)
-[![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/5M2gPmu2AC)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0xHaris&style=flat-square&logo=visitors&textColor=bd93f9)
 
 <h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
