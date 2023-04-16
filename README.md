@@ -1,7 +1,7 @@
 <h1 class="center"> Hey there! I'm Haris <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br>
 
-I am a software developer with experience in building applications in Python, JavaScript, and Rust.
+I am a software developer with experience building applications in Python, JavaScript, and Rust.
 
 <h1>💡 Skills:</h1>
 
