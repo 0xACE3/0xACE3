@@ -39,7 +39,7 @@ I am a Full Stack developer with experience building applications in Python, Jav
 
 <div>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xHaris&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)<br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xACE3&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xACE3&theme=dracula)<br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xACE3&theme=dracula)
 
