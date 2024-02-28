@@ -48,10 +48,7 @@ I am a Full Stack/Automation expert with experience building applications in Pyt
 <h1> 📫 Reach me: </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:0xbitshot@gmail.com)](mailto:0xbitshot@gmail.com)
-[![Twitter Badge](https://img.shields.io/twitter/url?color=blue&label=Follow&logo=Twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3D0xACE3)](https://twitter.com/intent/user?screen_name=0xACE3)
 [![Github Badge](https://img.shields.io/github/followers/0xACE3?label=Follow&style=flat-square&logo=github)](https://github.com/0xHaris)
-[![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/EdgeShoTx77)
-[![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/469899690805166090)
 ![visitor badge](https://komarev.com/ghpvc/?username=0xACE3&color=blueviolet&style=plastic)
 
 <h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
