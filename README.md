@@ -8,11 +8,12 @@ I am a Software Developer.
 
 I solve problems and make killer software.
 
-I use following languages (but not limited to).
-*  Python
+I use following languages.
+* Python
 * JavaScript
 * TypeScript
 * Go
+* Ruby
 * Rust	 
 
 
